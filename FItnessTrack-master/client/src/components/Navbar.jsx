@@ -137,7 +137,7 @@ const Navbar = ({ currentUser }) => {
           <MenuRounded sx={{ color: "inherit" }} />
         </Mobileicon>
         <NavLogo to="/">
-          <Logo src={LogoImg} />
+          {/* <Logo src={LogoImg} /> */}
           Fittrack
         </NavLogo>
 
